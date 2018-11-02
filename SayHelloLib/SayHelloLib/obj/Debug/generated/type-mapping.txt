@@ -1,0 +1,13 @@
+com/example/lifeoff/helloaar/BuildConfig = Com.Example.Lifeoff.Helloaar.BuildConfig
+  <init>()V = .ctor()
+  APPLICATION_ID = ApplicationId
+  BUILD_TYPE = BuildType
+  DEBUG = Debug
+  FLAVOR = Flavor
+  VERSION_CODE = VersionCode
+  VERSION_NAME = VersionName
+com/example/lifeoff/helloaar/SatHelloimpl = Com.Example.Lifeoff.Helloaar.SatHelloimpl
+  <init>()V = .ctor()
+  sayHello(Ljava/lang/String;)Ljava/lang/String; = SayHello(string)
+com/example/lifeoff/helloaar/SayHello = Com.Example.Lifeoff.Helloaar.ISayHello
+  sayHello(Ljava/lang/String;)Ljava/lang/String; = SayHello(string)

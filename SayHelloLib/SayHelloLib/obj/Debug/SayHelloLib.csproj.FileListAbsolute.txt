@@ -1,0 +1,6 @@
+C:\GitHub\xamarin\SayHelloLib\SayHelloLib\bin\Debug\SayHelloLib.dll
+C:\GitHub\xamarin\SayHelloLib\SayHelloLib\bin\Debug\SayHelloLib.pdb
+C:\GitHub\xamarin\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.csprojAssemblyReference.cache
+C:\GitHub\xamarin\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.dll
+C:\GitHub\xamarin\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.pdb
