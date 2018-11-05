@@ -1,0 +1,12 @@
+C:\GitHub\xamarin\20181105\Selector\Selector\bin\Debug\netstandard2.0\Selector.deps.json
+C:\GitHub\xamarin\20181105\Selector\Selector\bin\Debug\netstandard2.0\Selector.dll
+C:\GitHub\xamarin\20181105\Selector\Selector\bin\Debug\netstandard2.0\Selector.pdb
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\Selector.csprojAssemblyReference.cache
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\Selector.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\Selector.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\Selector.AssemblyInfo.cs
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\Selector.dll
+C:\GitHub\xamarin\20181105\Selector\Selector\obj\Debug\netstandard2.0\Selector.pdb

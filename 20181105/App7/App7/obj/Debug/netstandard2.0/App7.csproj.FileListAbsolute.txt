@@ -1,0 +1,11 @@
+C:\GitHub\xamarin\20181105\App7\App7\bin\Debug\netstandard2.0\App7.deps.json
+C:\GitHub\xamarin\20181105\App7\App7\bin\Debug\netstandard2.0\App7.dll
+C:\GitHub\xamarin\20181105\App7\App7\bin\Debug\netstandard2.0\App7.pdb
+C:\GitHub\xamarin\20181105\App7\App7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\20181105\App7\App7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\20181105\App7\App7\obj\Debug\netstandard2.0\App7.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\20181105\App7\App7\obj\Debug\netstandard2.0\App7.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\20181105\App7\App7\obj\Debug\netstandard2.0\App7.AssemblyInfo.cs
+C:\GitHub\xamarin\20181105\App7\App7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\xamarin\20181105\App7\App7\obj\Debug\netstandard2.0\App7.dll
+C:\GitHub\xamarin\20181105\App7\App7\obj\Debug\netstandard2.0\App7.pdb

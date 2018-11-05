@@ -1,0 +1,8 @@
+C:\GitHub\xamarin\20181105\iOS_Hello\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\GitHub\xamarin\20181105\iOS_Hello\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\GitHub\xamarin\20181105\iOS_Hello\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\GitHub\xamarin\20181105\iOS_Hello\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\GitHub\xamarin\20181105\iOS_Hello\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\GitHub\xamarin\20181105\iOS_Hello\obj\iPhoneSimulator\Debug\optimized\
+C:\GitHub\xamarin\20181105\iOS_Hello\obj\iPhoneSimulator\Debug\iOS_Hello.csprojAssemblyReference.cache
+C:\GitHub\xamarin\20181105\iOS_Hello\obj\iPhoneSimulator\Debug\iOS_Hello.csproj.CoreCompileInputs.cache

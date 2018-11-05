@@ -1,0 +1,11 @@
+C:\GitHub\xamarin\20181105\App5\App5\bin\Debug\netstandard2.0\App5.deps.json
+C:\GitHub\xamarin\20181105\App5\App5\bin\Debug\netstandard2.0\App5.dll
+C:\GitHub\xamarin\20181105\App5\App5\bin\Debug\netstandard2.0\App5.pdb
+C:\GitHub\xamarin\20181105\App5\App5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\20181105\App5\App5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\20181105\App5\App5\obj\Debug\netstandard2.0\App5.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\20181105\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\20181105\App5\App5\obj\Debug\netstandard2.0\App5.AssemblyInfo.cs
+C:\GitHub\xamarin\20181105\App5\App5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\xamarin\20181105\App5\App5\obj\Debug\netstandard2.0\App5.dll
+C:\GitHub\xamarin\20181105\App5\App5\obj\Debug\netstandard2.0\App5.pdb

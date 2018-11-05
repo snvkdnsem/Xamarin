@@ -1,0 +1,13 @@
+C:\GitHub\xamarin\20181105\App6\App6\bin\Debug\netstandard2.0\App6.deps.json
+C:\GitHub\xamarin\20181105\App6\App6\bin\Debug\netstandard2.0\App6.dll
+C:\GitHub\xamarin\20181105\App6\App6\bin\Debug\netstandard2.0\App6.pdb
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\App6.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfo.cs
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\App6.dll
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\App6.pdb
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\App6.csprojAssemblyReference.cache
+C:\GitHub\xamarin\20181105\App6\App6\obj\Debug\netstandard2.0\NextPage.xaml.g.cs

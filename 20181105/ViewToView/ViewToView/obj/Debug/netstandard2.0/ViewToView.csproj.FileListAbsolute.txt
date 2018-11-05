@@ -1,0 +1,12 @@
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\bin\Debug\netstandard2.0\ViewToView.deps.json
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\bin\Debug\netstandard2.0\ViewToView.dll
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\bin\Debug\netstandard2.0\ViewToView.pdb
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.csprojAssemblyReference.cache
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.AssemblyInfo.cs
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.dll
+C:\GitHub\xamarin\20181105\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.pdb
