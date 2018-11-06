@@ -1,0 +1,10 @@
+C:\GitHub\xamarin\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.deps.json
+C:\GitHub\xamarin\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.dll
+C:\GitHub\xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.csprojAssemblyReference.cache
+C:\GitHub\xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.AssemblyInfo.cs
+C:\GitHub\xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.csproj.App.config
+C:\GitHub\xamarin\Emp\Emp\Emp\obj\Debug\netstandard2.0\View\EmpViewPage.xaml.g.cs

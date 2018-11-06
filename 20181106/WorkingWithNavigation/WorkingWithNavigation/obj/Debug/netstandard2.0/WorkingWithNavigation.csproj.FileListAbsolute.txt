@@ -1,0 +1,16 @@
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\bin\Debug\netstandard2.0\WorkingWithNavigation.deps.json
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\bin\Debug\netstandard2.0\WorkingWithNavigation.dll
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\bin\Debug\netstandard2.0\WorkingWithNavigation.pdb
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\WorkingWithNavigation.csprojAssemblyReference.cache
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\Page2a.xaml.g.cs
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\WorkingWithNavigation.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\WorkingWithNavigation.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\WorkingWithNavigation.AssemblyInfo.cs
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\WorkingWithNavigation.dll
+C:\GitHub\xamarin\20181106\WorkingWithNavigation\WorkingWithNavigation\obj\Debug\netstandard2.0\WorkingWithNavigation.pdb

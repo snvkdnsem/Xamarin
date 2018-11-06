@@ -1,0 +1,14 @@
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\bin\Debug\netstandard2.0\WebServiceTest.deps.json
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\bin\Debug\netstandard2.0\WebServiceTest.dll
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.AssemblyInfo.cs
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\bin\Debug\netstandard2.0\WebServiceTest.dll.config
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.csproj.App.config
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.csprojAssemblyReference.cache
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\bin\Debug\netstandard2.0\WebServiceTest.pdb
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.dll
+C:\GitHub\xamarin\20181106\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.pdb

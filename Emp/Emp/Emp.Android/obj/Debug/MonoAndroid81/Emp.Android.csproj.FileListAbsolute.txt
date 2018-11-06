@@ -1,0 +1,1 @@
+C:\GitHub\xamarin\Emp\Emp\Emp.Android\obj\Debug\MonoAndroid81\Emp.Android.csprojAssemblyReference.cache

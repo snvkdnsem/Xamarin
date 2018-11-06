@@ -1,0 +1,14 @@
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\bin\Debug\netstandard2.0\SqliteTest.deps.json
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\bin\Debug\netstandard2.0\SqliteTest.dll
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.csprojAssemblyReference.cache
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.csproj.CoreCompileInputs.cache
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.AssemblyInfoInputs.cache
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.AssemblyInfo.cs
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\bin\Debug\netstandard2.0\SqliteTest.pdb
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.dll
+C:\GitHub\xamarin\20181106\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.pdb
